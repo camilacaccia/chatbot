@@ -1,57 +1,75 @@
-# Chatbot CC
+# Chatbot CC - CamilaTech
 
-Chatbot básico creado con HTML, CSS y JavaScript para asistir a usuarios en CC Studio.
-
----
-
-## Descripción
-
-Este proyecto es un asistente virtual llamado **CamilaTech** que responde preguntas básicas sobre los servicios ofrecidos por CC Studio. Está desarrollado con tecnologías web simples para fácil despliegue.
+Chatbot sencillo desarrollado con HTML, CSS y JavaScript para brindar asistencia virtual personalizada para CC Studio.  
+Es un chatbot estático que responde con mensajes predefinidos según palabras clave ingresadas por el usuario.
 
 ---
 
-## Tecnologías usadas
+## Demo visual
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+A continuación podés ver algunas capturas de pantalla del chatbot funcionando:
+
+<p align="center">
+  <img src="img/cap1.jpg" alt="Captura 1" width="300" />
+  <img src="img/cap2.jpg" alt="Captura 2" width="300" />
+</p>
+
+<p align="center">
+  <img src="img/cap3.jpg" alt="Captura 3" width="300" />
+  <img src="img/cap4.jpg" alt="Captura 4" width="300" />
+</p>
+
+<p align="center">
+  <img src="img/cap5.jpg" alt="Captura 5" width="300" />
+</p>
 
 ---
 
-## Uso
+## Características
 
-1. Abrir `index.html` en cualquier navegador moderno.
-2. Escribir un mensaje en la caja de texto y presionar Enter para interactuar con el bot.
-
----
-
-## Estructura del proyecto
-
+- Interfaz limpia y amigable con diseño responsivo.
+- Respuestas automáticas basadas en palabras clave del mensaje del usuario.
+- Saludos adaptados según hora del día.
+- Información sobre servicios y contacto.
+- Diseño visual moderno con gradientes y sombras suaves.
 
 ---
 
-## Capturas de pantalla
+## Archivos del proyecto
 
-![Captura 1](<img width="834" height="607" alt="cap1" src="https://github.com/user-attachments/assets/0158e2aa-5c3e-4312-b8ba-cf273ca143ec" />
-)
-![Captura 2](img/cap2.jpg)
-![Captura 3](img/cap3.jpg)
-![Captura 4](img/cap4.jpg)
-![Captura 5](img/cap5.jpg)
+- `index.html` - Estructura principal del chatbot.
+- `style.css` - Estilos visuales y diseño.
+- `chatbot.js` - Lógica para manejar mensajes y respuestas.
+
+---
+
+## Cómo usar
+
+1. Clonar o descargar el repositorio.
+2. Asegurarse que la carpeta `img` contenga las imágenes `cap1.jpg` a `cap5.jpg`.
+3. Abrir `index.html` en un navegador moderno.
+4. Escribir en el campo de texto para interactuar con el chatbot.
 
 ---
 
 ## Contacto
 
-Si querés más info o contratar servicios, escribí "contactar" en el chatbot o:
+Para más información o consultas, contactame por:
 
-- Email: cacciacamila284@gmail.com  
-- Instagram: [ccstudio.ar](https://www.instagram.com/ccstudio.ar)  
-- LinkedIn: [CC Studio](https://www.linkedin.com/company/ccstudio)
+- 📞 WhatsApp: +54 9 11 5728-3017  
+- 📧 Email: cacciacamila284@gmail.com  
+- 📱 Instagram: [https://www.instagram.com/ccstudio.ar](https://www.instagram.com/ccstudio.ar)  
+- 💼 LinkedIn: [https://www.linkedin.com/company/ccstudio](https://www.linkedin.com/company/ccstudio)
 
 ---
 
-¡Gracias por visitar este proyecto! 🌸
+## Licencia
 
+Este proyecto es libre para uso personal y educativo.  
 
+---
+
+¡Gracias por visitar!
+
+---
 
