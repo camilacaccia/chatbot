@@ -55,5 +55,21 @@ Este proyecto es de uso personal y demostrativo.
 
 ---
 
-¡Gracias por visitar y probar CamilaTech! 🌸
+## Capturas del Chatbot
+
+![Captura 1](img/cap1.jpg)  
+*Vista inicial del chatbot*
+
+![Captura 2](img/cap2.jpg)  
+*Interacción con saludo*
+
+![Captura 3](img/cap3.jpg)  
+*Respuesta con información*
+
+![Captura 4](img/cap4.jpg)  
+*Sección de contacto*
+
+![Captura 5](img/cap5.jpg)  
+*Mensaje de despedida*
+
 
