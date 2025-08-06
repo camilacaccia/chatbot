@@ -32,7 +32,8 @@ Este proyecto es un asistente virtual llamado **CamilaTech** que responde pregun
 
 ## Capturas de pantalla
 
-![Captura 1](img/cap1.jpg)
+![Captura 1](<img width="834" height="607" alt="cap1" src="https://github.com/user-attachments/assets/0158e2aa-5c3e-4312-b8ba-cf273ca143ec" />
+)
 ![Captura 2](img/cap2.jpg)
 ![Captura 3](img/cap3.jpg)
 ![Captura 4](img/cap4.jpg)
