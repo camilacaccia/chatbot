@@ -5,26 +5,6 @@ Es un chatbot estático que responde con mensajes predefinidos según palabras c
 
 ---
 
-## Demo visual
-
-A continuación podés ver algunas capturas de pantalla del chatbot funcionando:
-
-<p align="center">
-  <img src="img/cap1.jpg" alt="Captura 1" width="300" />
-  <img src="img/cap2.jpg" alt="Captura 2" width="300" />
-</p>
-
-<p align="center">
-  <img src="img/cap3.jpg" alt="Captura 3" width="300" />
-  <img src="img/cap4.jpg" alt="Captura 4" width="300" />
-</p>
-
-<p align="center">
-  <img src="img/cap5.jpg" alt="Captura 5" width="300" />
-</p>
-
----
-
 ## Características
 
 - Interfaz limpia y amigable con diseño responsivo.
